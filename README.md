@@ -208,7 +208,7 @@ All queries have been validated on live transactional data. Key executive takeaw
 ### Option 1: One-Click Analysis (Recommended)
 Clone the repo and run the Python runner to execute all queries and print formatted ASCII tables:
 ```bash
-git clone https://github.com/<your-username>/digital-music-store-analysis.git
+git clone https://github.com/Mehtaji2004/digital-music-store-analysis.git
 cd digital-music-store-analysis
 python3 run_analysis.py
 ```
